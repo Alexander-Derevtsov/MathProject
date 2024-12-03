@@ -1,2 +1,2 @@
-# Project_math
-https://alexander-derevtsov.github.io/Project_math/
+# ProjectMath
+https://alexander-derevtsov.github.io/MathProject/
