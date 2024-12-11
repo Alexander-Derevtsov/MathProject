@@ -24,7 +24,7 @@ async function getResponce() {
     let content = await responce.text()
     console.log(content)
     content = JSON.parse(content)
-    content = content.splice(0, 2)
+    content = content.splice(0, 6)
     console.log(content)
     let key
     content_year=content.sort((a, b) => a.year - b.year);
@@ -57,7 +57,7 @@ async function getResponce1() {
     let content = await responce.text()
     console.log(content)
     content = JSON.parse(content)
-    content = content.splice(0, 2)
+    content = content.splice(0, 6)
     console.log(content)
     let key
     content_name=content.sort((a, b) => {
